@@ -1,0 +1,4 @@
+aws-cdk-lib>=2.0.0
+constructs>=10.0.0
+setuptools~=39.0.1
+boto3~=1.20.46
